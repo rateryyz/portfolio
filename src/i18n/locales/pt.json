@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Transformando ideias em realidade com código",
+    "subtitle": "Desenvolvedor Frontend especializado em criar experiências web bonitas e funcionais",
+    "viewProjects": "Ver Projetos",
+    "downloadCV": "Baixar CV"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Sou um Desenvolvedor Frontend apaixonado com um olhar aguçado para design e comprometido em criar experiências de usuário perfeitas.",
+    "description2": "Quando não estou escrevendo código, estou trabalhando com novas ferramentas ou tecnologias ou contribuindo para open-source ou até mesmo com a comunidade de desenvolvedores."
+  },
+  "skills": {
+    "frontend": "Desenvolvimento Frontend",
+    "uiux": "UI/UX Design",
+    "tools": "Ferramentas & Outros"
+  },
+  "projects": {
+    "title": "Projetos em Destaque",
+    "subtitle": "Uma seleção dos meus trabalhos recentes. Cada projeto é único e resolve desafios específicos.",
+    "viewCode": "Código",
+    "gymAppDescription": "O GymApp é uma aplicação web atualmente em desenvolvimento, projetada para conectar membros de academias com seus treinadores pessoais. O sistema visa melhorar a comunicação, automatizar processos e simplificar rotinas, proporcionando uma experiência mais eficiente para ambas as partes. Com autenticação JWT e uma interface responsiva, o projeto busca otimizar o gerenciamento de planos de treino e atividades físicas de maneira prática e intuitiva.",
+    "weatherDashboardDescription": "O Weather Dashboard é uma aplicação web projetada para fornecer informações meteorológicas em tempo real para a localização selecionada pelo usuário. Ela apresenta uma interface limpa e intuitiva, permitindo que os usuários busquem por uma cidade e vejam as condições climáticas atuais, incluindo temperatura, umidade, velocidade do vento e dados de previsão. Construído com tecnologias web modernas, este projeto integra uma API de clima para buscar e exibir atualizações precisas. O design responsivo garante usabilidade em vários dispositivos, facilitando o planejamento do dia dos usuários com base nas informações do clima.",
+    "strangerThingsDescription": "O Stranger Things Landscape é uma experiência interativa imersiva que explora a transição entre dois mundos: o Mundo Real e o Upside Down. O ambiente muda entre o cenário familiar de Hawkins e o distorcido e sombrio Upside Down, capturando a atmosfera misteriosa e suspense de Stranger Things. Este projeto apresenta transições suaves entre os mundos, visuais dinâmicos e atenção à narrativa por meio do design, criando uma experiência envolvente e cativante."
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Tem uma proposta para um processo seletivo ou um projeto em mente? Vamos colaborar para dar vida à sua visão.",
+    "contactInfo": "Informações de Contato",
+    "form": {
+      "name": "Seu Nome",
+      "email": "Seu Email",
+      "message": "Sua Mensagem",
+      "submit": "Enviar Mensagem"
+    }
+  }
+}

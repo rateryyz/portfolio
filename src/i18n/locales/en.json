@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transforming ideas into reality with code",
+    "subtitle": "Frontend Developer specialized in creating beautiful and functional web experiences",
+    "viewProjects": "View Projects",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a passionate Frontend Developer with a keen eye for design and a commitment to creating seamless user experiences.",
+    "description2": "When I am not writing code, I am working with new tools or technologies or contributing to open-source or even with the community of developers."
+  },
+  "skills": {
+    "frontend": "Frontend Development",
+    "uiux": "UI/UX Design",
+    "tools": "Tools & Others"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "A selection of my recent work. Each project is unique and solves specific challenges.",
+    "viewCode": "Code",
+    "gymAppDescription": "The GymApp is a web application currently in development, designed to connect gym members with their personal trainers. The system aims to improve communication, automate processes, and simplify routines, providing a more efficient experience for both parties. With JWT authentication and a responsive interface, the project seeks to optimize the management of training plans and fitness activities in a practical and intuitive way.",
+    "weatherDashboardDescription": "The Weather Dashboard is a web application designed to provide users with real-time weather information for their selected location. It features a clean and intuitive interface, allowing users to search for a city and view current weather conditions, including temperature, humidity, wind speed, and forecast data. Built with modern web technologies, this project integrates a weather API to fetch and display accurate weather updates. The responsive design ensures usability across various devices, making it easy for users to plan their day based on weather insights.",
+    "strangerThingsDescription": "The Stranger Things Landscape is an immersive interactive experience that explores the transition between two worlds: the Real World and the Upside Down. The environment shifts between the familiar setting of Hawkins and the dark, distorted Upside Down, capturing the suspenseful and mysterious atmosphere of Stranger Things. This project showcases seamless world transitions, dynamic visuals, and attention to storytelling through design, creating a compelling and engaging user experience."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a proposal for a selection process or a project in mind? Let's collaborate to bring your vision to life.",
+    "contactInfo": "Contact Information",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message"
+    }
+  }
+}
