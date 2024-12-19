@@ -14,7 +14,7 @@ const projects = [
   {
     title: "Weather-Dashboard",
     descriptionKey: "projects.weatherDashboardDescription",
-    image: "https://i.imgur.com/1Rc3wWr.png",
+    image: "https://i.imgur.com/66U0IWX.png",
     tags: ["React", "Tailwind", "API"],
     github: "https://github.com/rateryyz/weather-dashboard",
     demo: "https://weather-dashboard-beta-two.vercel.app/",
