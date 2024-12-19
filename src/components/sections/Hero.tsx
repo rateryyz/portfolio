@@ -84,7 +84,7 @@ export function Hero() {
           className="flex items-center justify-center space-x-6 mb-16"
         >
           <a
-            href="https://drive.google.com/uc?id=1FgKGjpodd29c3IElyrFmsH5R_fbQT4r9&export=download"
+            href="https://drive.google.com/uc?id=1X4GoUoyviwCa0sMaSX1dMZuaZ0BCOaUo&export=download"
             download="portuguese-resume.pdf"
             className="flex items-center space-x-2 border border-black text-black hover:bg-black hover:text-white px-4 py-2 rounded-lg"
           >
@@ -92,7 +92,7 @@ export function Hero() {
             <span>{t("Portuguese Resume")}</span>
           </a>
           <a
-            href="https://drive.google.com/uc?export=download&id=1Ns5QlDLhnaZx5uIN-xQyOPHt-CNePHRt"
+            href="https://drive.google.com/uc?id=1ZiJhTzgrZhEM4nn48PrSn6RrtJ81ZbCK&export=download"
             download="english-resume.pdf"
             className="flex items-center space-x-2 border border-black text-black hover:bg-black hover:text-white px-4 py-2 rounded-lg"
           >
