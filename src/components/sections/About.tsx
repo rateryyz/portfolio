@@ -52,7 +52,7 @@ export function About() {
             >
               <div className="flex justify-center items-center">
                 <img
-                  src="/src/assets/images/IMG_20240911_092412_220.png"
+                  src="https://i.imgur.com/VZro7IL.png"
                   alt="Profile"
                   className="w-auto h-auto max-w-[100%] max-h-[100%] object-cover rounded-full"
                 />
