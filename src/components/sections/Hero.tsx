@@ -59,7 +59,11 @@ export function Hero() {
               Icon: Linkedin,
               href: "https://www.linkedin.com/in/marcus-vinicius-moreira-front-end/",
             },
-            { Icon: Mail, href: "sucrammoreira@gmail.com" },
+            { Icon: Mail, href: "https://mail.google.com/mail/?view=cm&to=sucrammoreira@gmail.com" }
+
+
+
+
           ].map(({ Icon, href }, index) => (
             <motion.a
               key={index}

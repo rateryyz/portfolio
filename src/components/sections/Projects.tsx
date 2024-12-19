@@ -6,14 +6,14 @@ import { Button } from "@/components/ui/button";
 const projects = [
   {
     title: "GymApp (in progress)",
-    descriptionKey: "projects.gymAppDescription", // Usando chave para tradução
+    descriptionKey: "projects.gymAppDescription",
     image: "https://i.imgur.com/Cy2LmWH.png",
     tags: ["React", "TypeScript", "Tailwind"],
     github: "https://github.com/rateryyz/gymapp",
   },
   {
     title: "Weather-Dashboard",
-    descriptionKey: "projects.weatherDashboardDescription", // Usando chave para tradução
+    descriptionKey: "projects.weatherDashboardDescription", 
     image:
       "https://i.imgur.com/1Rc3wWr.png",
     tags: ["JavaScript", "HTML", "API"],
@@ -21,7 +21,7 @@ const projects = [
   },
   {
     title: "Landscape - Stranger Things",
-    descriptionKey: "projects.strangerThingsDescription", // Usando chave para tradução
+    descriptionKey: "projects.strangerThingsDescription", 
     image:
       "https://i.imgur.com/t65dE3n.png",
     tags: ["JavaScript", "HTML", "CSS"],

@@ -1,43 +1,43 @@
 {
   "nav": {
-    "home": "Início",
-    "about": "Sobre",
-    "projects": "Projetos",
-    "contact": "Contato"
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
   },
   "hero": {
-    "title": "Transformando ideias em realidade com código",
-    "subtitle": "Desenvolvedor Frontend especializado em criar experiências web bonitas e funcionais",
-    "viewProjects": "Ver Projetos",
-    "downloadCV": "Baixar CV"
+    "title": "Transforming ideas into reality with code",
+    "subtitle": "Frontend Developer specialized in creating beautiful and functional web experiences",
+    "viewProjects": "View Projects",
+    "downloadCV": "Download CV"
   },
   "about": {
-    "title": "Sobre Mim",
-    "description": "Sou um Desenvolvedor Frontend apaixonado com um olhar aguçado para design e comprometido em criar experiências de usuário perfeitas.",
-    "description2": "Quando não estou escrevendo código, estou trabalhando com novas ferramentas ou tecnologias ou contribuindo para open-source ou até mesmo com a comunidade de desenvolvedores."
+    "title": "About Me",
+    "description": "I'm a passionate Frontend Developer with a keen eye for design and a commitment to creating seamless user experiences.",
+    "description2": "When I am not writing code, I am working with new tools or technologies or contributing to open-source or even with the community of developers."
   },
   "skills": {
-    "frontend": "Desenvolvimento Frontend",
+    "frontend": "Frontend Development",
     "uiux": "UI/UX Design",
-    "tools": "Ferramentas & Outros"
+    "tools": "Tools & Others"
   },
   "projects": {
-    "title": "Projetos em Destaque",
-    "subtitle": "Uma seleção dos meus trabalhos recentes. Cada projeto é único e resolve desafios específicos.",
-    "viewCode": "Código",
-    "gymAppDescription": "O GymApp é uma aplicação web atualmente em desenvolvimento, projetada para conectar membros de academias com seus treinadores pessoais. O sistema visa melhorar a comunicação, automatizar processos e simplificar rotinas, proporcionando uma experiência mais eficiente para ambas as partes. Com autenticação JWT e uma interface responsiva, o projeto busca otimizar o gerenciamento de planos de treino e atividades físicas de maneira prática e intuitiva.",
-    "weatherDashboardDescription": "O Weather Dashboard é uma aplicação web projetada para fornecer informações meteorológicas em tempo real para a localização selecionada pelo usuário. Ela apresenta uma interface limpa e intuitiva, permitindo que os usuários busquem por uma cidade e vejam as condições climáticas atuais, incluindo temperatura, umidade, velocidade do vento e dados de previsão. Construído com tecnologias web modernas, este projeto integra uma API de clima para buscar e exibir atualizações precisas. O design responsivo garante usabilidade em vários dispositivos, facilitando o planejamento do dia dos usuários com base nas informações do clima.",
-    "strangerThingsDescription": "O Stranger Things Landscape é uma experiência interativa imersiva que explora a transição entre dois mundos: o Mundo Real e o Upside Down. O ambiente muda entre o cenário familiar de Hawkins e o distorcido e sombrio Upside Down, capturando a atmosfera misteriosa e suspense de Stranger Things. Este projeto apresenta transições suaves entre os mundos, visuais dinâmicos e atenção à narrativa por meio do design, criando uma experiência envolvente e cativante."
+    "title": "Featured Projects",
+    "subtitle": "A selection of my recent work. Each project is unique and solves specific challenges.",
+    "viewCode": "Code",
+    "gymAppDescription": "The GymApp is a web application currently in development, designed to connect gym members with their personal trainers. The system aims to improve communication, automate processes, and simplify routines, providing a more efficient experience for both parties. With JWT authentication and a responsive interface, the project seeks to optimize the management of training plans and fitness activities in a practical and intuitive way.",
+    "weatherDashboardDescription": "The Weather Dashboard is a web application designed to provide users with real-time weather information for their selected location. It features a clean and intuitive interface, allowing users to search for a city and view current weather conditions, including temperature, humidity, wind speed, and forecast data. Built with modern web technologies, this project integrates a weather API to fetch and display accurate weather updates. The responsive design ensures usability across various devices, making it easy for users to plan their day based on weather insights.",
+    "strangerThingsDescription": "The Stranger Things Landscape is an immersive interactive experience that explores the transition between two worlds: the Real World and the Upside Down. The environment shifts between the familiar setting of Hawkins and the dark, distorted Upside Down, capturing the suspenseful and mysterious atmosphere of Stranger Things. This project showcases seamless world transitions, dynamic visuals, and attention to storytelling through design, creating a compelling and engaging user experience."
   },
   "contact": {
-    "title": "Entre em Contato",
-    "subtitle": "Tem uma proposta para um processo seletivo ou um projeto em mente? Vamos colaborar para dar vida à sua visão.",
-    "contactInfo": "Informações de Contato",
+    "title": "Get in Touch",
+    "subtitle": "Have a proposal for a selection process or a project in mind? Let's collaborate to bring your vision to life.",
+    "contactInfo": "Contact Information",
     "form": {
-      "name": "Seu Nome",
-      "email": "Seu Email",
-      "message": "Sua Mensagem",
-      "submit": "Enviar Mensagem"
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message"
     }
   }
 }

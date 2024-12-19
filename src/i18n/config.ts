@@ -1,7 +1,7 @@
 import i18n from 'i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
 import { initReactI18next } from 'react-i18next';
-
+// sim eu inverti o en.json e o pt.json pq ficou melhor a aparencia no site
 import enTranslations from './locales/en.json';
 import ptTranslations from './locales/pt.json';
 

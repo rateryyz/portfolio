@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import { useForm } from 'react-hook-form';
-import { Github, Linkedin, Mail, Twitter } from 'lucide-react';
+import { Github, Linkedin, Mail, Twitter, } from 'lucide-react';
 
 type FormData = {
   name: string;
@@ -16,8 +16,8 @@ export function Contact() {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/rateryyz', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/marcus-vinicius-moreira-front-end/', label: 'LinkedIn' },
-    { icon: Twitter, href: 'https://x.com/88x88y', label: 'Twitter' },
-    { icon: Mail, href: 'mailto:sucrammoreira@gmail.com', label: 'Email' },
+    { icon: Twitter, href: 'https://x.com/rateryzz', label: 'X' },
+    { icon: Mail, href: 'https://mail.google.com/mail/?view=cm&to=sucrammoreira@gmail.com', label: 'Email' },
   ];
 
   return (
