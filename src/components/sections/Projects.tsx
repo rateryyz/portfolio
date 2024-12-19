@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
-import { Github } from "lucide-react";
+import { Github, ExternalLink } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const projects = [
@@ -13,19 +13,19 @@ const projects = [
   },
   {
     title: "Weather-Dashboard",
-    descriptionKey: "projects.weatherDashboardDescription", 
-    image:
-      "https://i.imgur.com/1Rc3wWr.png",
+    descriptionKey: "projects.weatherDashboardDescription",
+    image: "https://i.imgur.com/1Rc3wWr.png",
     tags: ["JavaScript", "HTML", "API"],
     github: "https://github.com/rateryyz/weather-dashboard",
+    demo: "https://weather-dashboard-beta-two.vercel.app/",
   },
   {
     title: "Landscape - Stranger Things",
-    descriptionKey: "projects.strangerThingsDescription", 
-    image:
-      "https://i.imgur.com/t65dE3n.png",
+    descriptionKey: "projects.strangerThingsDescription",
+    image: "https://i.imgur.com/t65dE3n.png",
     tags: ["JavaScript", "HTML", "CSS"],
     github: "https://github.com/rateryyz/landscape-strangerthings",
+    demo: "https://landscape-strangerthings.vercel.app/",
   },
 ];
 
@@ -70,7 +70,7 @@ export function Projects() {
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2">{project.title}</h3>
                 <p className="text-muted-foreground mb-4">
-                  {t(project.descriptionKey)} {/* Tradução da descrição */}
+                  {t(project.descriptionKey)}
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   {project.tags.map((tag) => (
@@ -93,6 +93,18 @@ export function Projects() {
                       {t("projects.viewCode")}
                     </a>
                   </Button>
+                  {project.demo && (
+                    <Button variant="outline" size="sm" asChild>
+                      <a
+                        href={project.demo}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <ExternalLink className="h-4 w-4 mr-2" />
+                        {t("projects.viewDemo")}
+                      </a>
+                    </Button>
+                  )}
                 </div>
               </div>
             </motion.article>
