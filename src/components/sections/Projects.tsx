@@ -20,12 +20,12 @@ const projects = [
     demo: "https://weather-dashboard-beta-two.vercel.app/",
   },
   {
-    title: "Landscape - Stranger Things",
-    descriptionKey: "projects.strangerThingsDescription",
-    image: "https://i.imgur.com/t65dE3n.png",
-    tags: ["JavaScript", "HTML", "CSS"],
-    github: "https://github.com/rateryyz/landscape-strangerthings",
-    demo: "https://landscape-strangerthings.vercel.app/",
+    title: "CineScope",
+    descriptionKey: "projects.cineScopeDescription",
+    image: "https://imgur.com/ROt2uYj.png",
+    tags: ["React", "Tailwind", "API"],
+    github: "https://github.com/rateryyz/cinescope",
+    demo: "https://cinescope-rateryyzs-projects.vercel.app/",
   },
 ];
 
